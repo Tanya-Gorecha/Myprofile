@@ -1,0 +1,35 @@
+#menu{
+    background-color:rgb(246, 208, 255);
+    border-radius: 20px;
+    text-align:center;
+}
+body{
+background-color: rgb(246, 208, 255);
+color:black;
+
+}
+#my{
+    border-radius:20px;
+    color:white;
+    background-color: rgb(182, 79, 255);
+    font-size: 50;
+}
+#home{
+    border-radius:20px;
+    background-color: rgb(182, 79, 255);
+    color:white;
+    font-size: 50;
+}
+.pro{
+    border-radius:20px;
+    color:white;
+    background-color: rgb(182, 79, 255);
+    font-size: 50;
+}
+.lne{
+        height:5px;
+        width:fit-content;
+        background-color:#000;
+        margin:8px auto;
+    
+}
